@@ -1,0 +1,36 @@
+h1 {
+    background-color: aquamarine;
+    color:cornflowerblue;
+    text-align: center;
+}
+
+.list{
+    padding: 10px;
+    border: 2px black solid;
+}
+
+li {
+    width: 250px;
+    color: black;
+    background-color: chocolate;
+    margin: 0px auto;
+}
+
+h2 {
+    margin: 0 auto;
+    padding: 16px;
+    text-align: center;
+    width: 200px;
+    border: 3px groove rgb(177, 106, 224)
+}
+
+* {
+    text-align: center;
+     font-size: 36px;
+
+}
+
+#gf {
+    color: rgb(128, 242, 128);
+    background-color: rgb(83, 2, 2);
+}
